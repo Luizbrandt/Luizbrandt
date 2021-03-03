@@ -10,6 +10,7 @@ Hi! I'm a developer. Just a 24 year old guy trying to figure out things, always 
 - Become a pro on React and ReactNative
 - Study more about Vue and Vuetify, Docker, Machine Learning and IOT
 - Build fullstack projects using JavaScript (TypeScript + Node.Js), Vue, React and TypeORM
+- Learn how to build Microservices and Serverless applications
 
 <br/>
 
