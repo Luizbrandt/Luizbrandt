@@ -65,7 +65,4 @@ Hi! I'm a developer. Just a 24 year old guy trying to figure out things, always 
 [<img align="left" alt="Luizbrandt | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/brandtluizandre)
 [<img align="left" alt="Luizbrandt | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/andre.luizbrandt.73/)
 [<img align="left" alt="Luizbrandt | Whatsapp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=+5524981642703)
-[<img align="left" alt="Luizbrandt | Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://api.telegram.com/send?phone=+5524981642703)
-
-[instagram]: https://instagram.com/brandtluizandre
-[linkedin]: https://linkedin.com/in/andré-luiz-brandt-engcomp/
+[<img align="left" alt="Luizbrandt | Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/brandtluizandre)
