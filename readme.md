@@ -28,6 +28,7 @@ Hi! I'm a developer. Just a 24 year old guy trying to figure out things, always 
 ## :wrench: Projects
 
 - Billboard Hot 100 WebScrapper that creates a homepage containing the top 10 single's music videos using Node.Js, Vue + Vuetify and Puppeteer.
+- Id generator for a company that creates a '.svg' file containing dynamic data (such as name, role, time of association, etc). 
 
 <br/>
 
