@@ -15,22 +15,15 @@ Hi! I'm a developer. Just a 24 year old guy trying to figure out things, always 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizbrandt&show_icons=true&theme=dracula&count_private=true&border=false&hide=Dart&layout=compact)](https://github.com/luizbrandt)
 
-<br/>
-<br/>
+## :trophy: Github Stats
+<img align="left" alt="Luizbrandt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizbrandt&show_icons=true&theme=dracula&count_private=true&border=false" />
 
 # :phone: Wanna chat?
-
-<br/>
 
 [<img align="left" color="#FFFFFF" alt="Luizbrandt | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/andré-luiz-brandt-engcomp)
 [<img align="left" alt="Luizbrandt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/brandtluizandre)
 [<img align="left" alt="Luizbrandt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/andre.luizbrandt.73/)
 [<img align="left" alt="Luizbrandt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=+5524981642703)
-
-<br/>
-
-Github Stats
-<img align="left" alt="Luizbrandt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizbrandt&show_icons=true&theme=dracula&count_private=true&border=false" />
 
 [instagram]: https://instagram.com/brandtluizandre
 [linkedin]: https://linkedin.com/in/andré-luiz-brandt-engcomp/
