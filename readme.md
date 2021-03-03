@@ -11,6 +11,10 @@ Hi! I'm a developer. Just a 24 year old guy trying to figure out things, always 
 
 ## :green_book: Languages, Frameworks and Technologies
 
+## :wrench: Projects
+
+- Billboard Hot 100 WebScrapper that creates a homepage containing the top 10 single's music videos using Node.Js, Vue + Vuetify and Puppeteer.
+
 ## :gem: Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizbrandt&show_icons=true&theme=dracula&count_private=true&border=false&hide=Dart&layout=compact)](https://github.com/luizbrandt)
