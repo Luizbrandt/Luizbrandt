@@ -18,7 +18,7 @@ Hi! I'm a developer. Just a 24 year old guy trying to figure out things, always 
 ## :trophy: Github Stats
 <img align="left" alt="Luizbrandt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizbrandt&show_icons=true&theme=dracula&count_private=true&border=false" />
 
-# :phone: Wanna chat?
+## :phone: Wanna chat?
 
 [<img align="left" color="#FFFFFF" alt="Luizbrandt | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/andré-luiz-brandt-engcomp)
 [<img align="left" alt="Luizbrandt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/brandtluizandre)
