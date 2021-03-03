@@ -20,6 +20,9 @@ Hi! I'm a developer. Just a 24 year old guy trying to figure out things, always 
 <img align="left" alt="Luizbrandt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizbrandt&show_icons=true&theme=dracula&count_private=true&border=false" />
 
 <br/>
+<br/>
+<br/>
+<br/>
 
 ## :phone: Wanna chat?
 
