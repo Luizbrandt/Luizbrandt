@@ -23,6 +23,8 @@ Hi! I'm a developer. Just a 24 year old guy trying to figure out things, always 
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 ## :phone: Wanna chat?
 
