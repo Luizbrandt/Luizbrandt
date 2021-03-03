@@ -5,7 +5,7 @@
 Hi! I'm a developer. Just a 24 year old guy trying to figure out things, always trying to code every single issue to turn it on solutions. Numbers, coffee, dogs and lines of code are my main passions.
 
 ## :chart_with_upwards_trend: Goals for 2021
-- Become a pro on React and ReactNative
+- Become a pro on React and ReactNative :react:
 
 ## :green_book: Languages, Frameworks and Technologies
 
