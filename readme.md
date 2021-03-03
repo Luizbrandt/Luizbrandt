@@ -1,13 +1,14 @@
 ### Hi, I'm André Luiz! :)
 
-Who am I?
+## :mag: Who am I?
 
 ## :chart_with_upwards_trend: Goals for 2021
 
 ## :coffee: Wanna chat?
 
-Languages, Frameworks and Technologies
+## :green_book: Languages, Frameworks and Technologies
 
+## :gem: Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizbrandt&show_icons=true&theme=dracula&count_private=true&border=false&hide=Dart&layout=compact)](https://github.com/luizbrandt)
 
