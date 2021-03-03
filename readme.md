@@ -16,7 +16,10 @@ Hi! I'm a developer. Just a 24 year old guy trying to figure out things, always 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizbrandt&show_icons=true&theme=dracula&count_private=true&border=false&hide=Dart&layout=compact)](https://github.com/luizbrandt)
 
 ## :trophy: Github Stats
+
 <img align="left" alt="Luizbrandt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizbrandt&show_icons=true&theme=dracula&count_private=true&border=false" />
+
+<br/>
 
 ## :phone: Wanna chat?
 
