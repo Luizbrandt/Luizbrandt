@@ -6,12 +6,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Luizbrandt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/Saviollage)
-[<img align="left" alt="Luizbrandt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/Saviollage)
-[<img align="left" alt="Luizbrandt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/savio.lage/)
-[<img align="left" alt="Luizbrandt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=+5531992652345)
+[<img align="left" alt="Luizbrandt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/andré-luiz-brandt-engcomp)
+[<img align="left" alt="Luizbrandt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/brandtluizandre)
+[<img align="left" alt="Luizbrandt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/andre.luizbrandt.73/)
+[<img align="left" alt="Luizbrandt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=+5524981642703)
 
-<img align="left" alt="LuizBRANDT's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizbrandt&show_icons=true&theme=dracula&count_private=true&border=false" />
+<img align="left" alt="Luizbrandt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizbrandt&show_icons=true&theme=dracula&count_private=true&border=false" />
 
 [instagram]: https://instagram.com/brandtluizandre
 [linkedin]: https://linkedin.com/in/andré-luiz-brandt-engcomp/
