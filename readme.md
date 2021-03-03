@@ -75,5 +75,5 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 
 [<img align="left" color="#FFFFFF" alt="Luizbrandt | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/andré-luiz-brandt-engcomp)
 [<img align="left" alt="Luizbrandt | Whatsapp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=+5524981642703)
-[<img align="left" alt="Luizbrandt | Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/brandtluizandre)
+[<img align="left" alt="Luizbrandt | Telegram" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/brandtluizandre)
 [<img align="left" alt="Luizbrandt | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:brandtluizengcomp@gmail.com)
