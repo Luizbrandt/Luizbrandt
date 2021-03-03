@@ -2,7 +2,7 @@
 
 ## :mag: Who am I?
 
-Just a 24 year old guy trying to figure out things, always trying to code every single issue to turn them on solutions.
+Hi! I'm a developer. Just a 24 year old guy trying to figure out things, always trying to code every single issue to turn it on solutions. Numbers, coffee, dogs and lines of code are my main passions.
 
 ## :chart_with_upwards_trend: Goals for 2021
 
