@@ -4,10 +4,14 @@
 
 Hi! I'm a developer. Just a 24 year old guy trying to figure out things, always trying to code every single issue to turn it on solutions. Numbers, coffee, dogs and lines of code are my main passions.
 
+<br/>
+
 ## :chart_with_upwards_trend: Goals for 2021
 - Become a pro on React and ReactNative
 - Study more about Vue and Vuetify
 - Build fullstack projects using JavaScript (TypeScript pattern), Vue, React and TypeORM
+
+<br/>
 
 ## :green_book: Languages, Frameworks and Technologies
 
@@ -24,9 +28,13 @@ Hi! I'm a developer. Just a 24 year old guy trying to figure out things, always 
 
 - Billboard Hot 100 WebScrapper that creates a homepage containing the top 10 single's music videos using Node.Js, Vue + Vuetify and Puppeteer.
 
+<br/>
+
 ## :gem: Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizbrandt&show_icons=true&theme=dracula&count_private=true&border=false&hide=Dart&layout=compact)](https://github.com/luizbrandt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizbrandt&show_icons=true&theme=dracula&count_private=false&border=false&hide=Dart&layout=compact)](https://github.com/luizbrandt)
+
+<br/>
 
 ## :trophy: Github Stats
 
