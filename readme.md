@@ -4,8 +4,6 @@
 
 ## :chart_with_upwards_trend: Goals for 2021
 
-## :coffee: Wanna chat?
-
 ## :green_book: Languages, Frameworks and Technologies
 
 ## :gem: Top Langs
@@ -15,7 +13,7 @@
 <br/>
 <br/>
 
-### Connect with me:
+# :phone: Wanna chat?
 
 <br/>
 
