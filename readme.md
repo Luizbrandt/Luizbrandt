@@ -8,8 +8,8 @@ Hi! I'm a developer. Just a 24 year old guy trying to figure out things, always 
 
 ## :chart_with_upwards_trend: Goals for 2021
 - Become a pro on React and ReactNative
-- Study more about Vue and Vuetify
-- Build fullstack projects using JavaScript (TypeScript pattern), Vue, React and TypeORM
+- Study more about Vue and Vuetify, Docker, Machine Learning and IOT
+- Build fullstack projects using JavaScript (TypeScript + Node.Js), Vue, React and TypeORM
 
 <br/>
 
