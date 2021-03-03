@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Savio! 👋
+### Hi, I'm André Luiz! :)
 
 ## I'm a Developer!
 
