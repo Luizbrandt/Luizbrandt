@@ -2,7 +2,7 @@
 
 ## :mag: Who am I?
 
-Hi! I'm a developer. Just a 24 year old guy trying to figure out things, always trying to code every single issue to turn it on solutions. Numbers, coffee, dogs and lines of code are my main passions.
+Hi! I'm a developer. Just a 24 year old guy trying to figure out things, always trying to code every single issue to turn it on solutions. Numbers, coffee, dogs and lines of code are my main passions. Fields of interest: Software Engineering, Frontend Development, Machine Learning, IOT, Data Science, DevOps.
 
 <br/>
 
