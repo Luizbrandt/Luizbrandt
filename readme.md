@@ -2,6 +2,8 @@
 
 ## :mag: Who am I?
 
+Just a 24 year old guy trying to figure out things, always trying to code every single issue to turn them on solutions.
+
 ## :chart_with_upwards_trend: Goals for 2021
 
 ## :green_book: Languages, Frameworks and Technologies
