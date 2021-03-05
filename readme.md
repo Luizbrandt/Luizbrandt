@@ -56,12 +56,15 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 <div style='text-align: justify;'>ID generator for AFEMG (Associação Mineira de Famílias Educadoras). The administrator can regiester AFEMG's associates so they can use credentials to generate and print their ID. The ID contains two codes: public and private. The public one can be used on AFEMG's website to validate it's signature. The private onde can be used with the user's CPF to generate a ID dynamically. Partner companies can use AFEMG's validation system to provide discounts and benefits to members and associates. Click <a href="https://afemg-clients.web.app/">here</a> or in the logo above to go to the website.
 </div>
 
+<br/>
+
 <p align="center">
   <a href="https://afemg-clients.web.app/">
-    <img src="./img/Screenshot_20210304-224146.png" align="center" width="400px" alt="AFEMG Mobile Menu" style="marin-left: auto; margin-right: auto;"/>
+    <img src="./img/Screenshot_20210304-224146.png" align="center" width="200px" alt="AFEMG Mobile Menu" style="marin-left: auto; margin-right: auto;"/>
   </a>
 </p>
 
+<br/>
 <br/>
 
 ## :gem: Top Langs
