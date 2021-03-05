@@ -70,7 +70,7 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 ## :gem: Top Langs
 
 <p align="center">
-  <img align="center" alt="Luizbrandt's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbrandt&show_icons=true&theme=midnight-purple&count_private=false&border=false&hide=Dart&layout=compact"/>
+  <img align="center" alt="Luizbrandt's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbrandt&show_icons=true&theme=midnight-purple&count_private=true&border=false&hide=Dart&layout=compact"/>
 </p>
 
 <br/>
