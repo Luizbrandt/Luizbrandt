@@ -43,6 +43,14 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 <br/>
 <br/>
 
+## :gem: Top Langs
+
+<p align="center">
+  <img align="center" alt="Luizbrandt's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbrandt&show_icons=true&theme=midnight-purple&count_private=false&border=false&hide=Dart&layout=compact"/>
+</p>
+
+<br/>
+
 ## :wrench: Projects
 
 ### AFEMG Id Generator
@@ -75,14 +83,6 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 
 #### Collaborators
 - <a href="https://github.com/Saviollage">Sávio Lage (Backend)</a>
-<br/>
-
-## :gem: Top Langs
-
-<p align="center">
-  <img align="center" alt="Luizbrandt's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbrandt&show_icons=true&theme=midnight-purple&count_private=false&border=false&hide=Dart&layout=compact"/>
-</p>
-
 <br/>
 
 ## :trophy: Github Stats
