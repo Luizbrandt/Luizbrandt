@@ -46,7 +46,10 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 ## :wrench: Projects
 
 ### AFEMG Id Generator
+
+<div style="text-align: right">
 - ID generator for AFEMG (Associação Mineira de Famílias Educadoras). The administrator can regiester AFEMG's associates so they can use credentials to generate and print their ID. The ID contains two codes: public and private. The public one can be used on AFEMG's website to validate it's signature. The private onde can be used with the user's CPF to generate a ID dynamically. Partner companies can use AFEMG's validation system to provide discounts and benefits to members and associates.
+</div>
 
 <br/>
 
