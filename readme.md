@@ -82,15 +82,6 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 </p>
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## :phone: Wanna chat?
 
