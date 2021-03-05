@@ -50,6 +50,7 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 <p align="center">
   <a href="https://afemg-clients.web.app/">
     <img src="./afemg-logo.svg" align="center" width="85px" alt="AFEMG Logo" style="marin-left: auto; margin-right: auto;"/>
+    <img src="./img/print_id_menu.png" align="center" width="200px" alt="Print ID Menu" style="marin-left: auto; margin-right: auto;"/>
   </a>
 </p>
 
@@ -61,7 +62,6 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 <p align="center">
   <a href="https://afemg-clients.web.app/">
     <img src="./img/Screenshot_20210304-224146.png" align="center" width="200px" alt="AFEMG Mobile Menu" style="marin-left: auto; margin-right: auto;"/>
-    <img src="./img/print_id_menu.png" align="center" width="200px" alt="Print ID Menu" style="marin-left: auto; margin-right: auto;"/>
   </a>
 </p>
 
