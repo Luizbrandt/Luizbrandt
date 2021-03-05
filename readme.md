@@ -88,7 +88,7 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 ## :trophy: Github Stats
 
 <p align="center">
-  <img align="center" alt="Luizbrandt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizbrandt&show_icons=true&theme=midnight-purple&count_private=true&border=false" />
+  <img align="center" alt="Luizbrandt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizbrandt&show_icons=true&theme=midnight-purple&count_private=false&border=false" />
 </p>
 
 <br/>
