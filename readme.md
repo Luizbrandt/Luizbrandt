@@ -65,6 +65,16 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 <br/>
 
 #### Used Technologies
+- <a href="https://vuejs.org/">Vue</a>
+- <a href="https://vuetifyjs.com/en/">Vuetify</a>
+- <a href="https://nodejs.org/en/">Node</a>
+- <a href="https://www.mongodb.com/">MongoDB</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">Javascript</a>
+
+<br/>
+
+#### Collaborators
+- <a href="https://github.com/Saviollage">Sávio Lage (Backend)</a>
 <br/>
 
 ## :gem: Top Langs
