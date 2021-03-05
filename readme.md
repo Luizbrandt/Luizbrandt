@@ -69,14 +69,16 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 
 ## :gem: Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizbrandt&show_icons=true&theme=dracula&count_private=false&border=false&hide=Dart&layout=compact)](https://github.com/luizbrandt)
+<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizbrandt&show_icons=true&theme=midnight-purple&count_private=false&border=false&hide=Dart&layout=compact)](https://github.com/luizbrandt)
+</p>
 
 <br/>
 
 ## :trophy: Github Stats
 
 <p align="center">
-  <img align="left" alt="Luizbrandt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizbrandt&show_icons=true&theme=midnight-purple&count_private=true&border=false" />
+  <img align="center" alt="Luizbrandt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizbrandt&show_icons=true&theme=midnight-purple&count_private=true&border=false" />
 </p>
 
 <br/>
