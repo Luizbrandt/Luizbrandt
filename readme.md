@@ -60,7 +60,7 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 
 <p align="center">
   <a href="https://afemg-clients.web.app/">
-    <img src="./img/Screenshot_20210304-224146.png" align="center" width="200px" alt="AFEMG Mobile Menu" style="marin-left: auto; margin-right: auto;"/>
+    <img src="./img/menu_overview.png" align="center" width="500px" alt="AFEMG Mobile Menu" style="marin-left: auto; margin-right: auto;"/>
   </a>
 </p>
 
