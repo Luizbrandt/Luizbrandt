@@ -75,7 +75,9 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 
 ## :trophy: Github Stats
 
-<img align="left" alt="Luizbrandt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizbrandt&show_icons=true&theme=dracula&count_private=true&border=false" />
+<p align="center">
+  <img align="left" alt="Luizbrandt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizbrandt&show_icons=true&theme=midnight-purple&count_private=true&border=false" />
+</p>
 
 <br/>
 <br/>
