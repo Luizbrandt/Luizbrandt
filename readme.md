@@ -45,7 +45,7 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 
 ## :wrench: Projects
 
-### :AFEMG Id Generator
+### AFEMG Id Generator
 - ID generator for AFEMG (Associação Mineira de Famílias Educadoras). The administrator can regiester AFEMG's associates so they can use credentials to generate and print their ID.
 
 <br/>
