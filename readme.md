@@ -85,7 +85,24 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 
 ## :phone: Wanna chat?
 
-[<img align="left" color="#FFFFFF" alt="Luizbrandt | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/andré-luiz-brandt-engcomp)
-[<img align="left" alt="Luizbrandt | Whatsapp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=+5524981642703)
-[<img align="left" alt="Luizbrandt | Telegram" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/brandtluizandre)
-[<img align="left" alt="Luizbrandt | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](mailto:brandtluizengcomp@gmail.com)
+<a href="https://linkedin.com/in/andré-luiz-brandt-engcomp">
+	<img align="left" color="#FFFFFF" alt="Luizbrandt | LinkedIn" width="30px" src="./img/linked.svg"/>
+</a>
+
+<a href="https://api.whatsapp.com/send?phone=+5524981642703">
+	<img align="left" alt="Luizbrandt | Whatsapp" width="30px" src="./img/whatsapp.svg"/>
+</a>
+
+<a href="https://t.me/brandtluizandre">
+	<img align="left" alt="Luizbrandt | Telegram" width="30px" src="./img/telegram.svg"/>
+</a>
+
+<a href="mailto:brandtluizengcomp@gmail.com">
+	<img align="left" alt="Luizbrandt | Gmail" width="30px" src="./img/gmail.svg"/>
+</a>
+
+<br/>
+
+<p align="center">
+  <><img align="center" alt="Luizbrandt's Github Stats" src=""/><>
+</p>
