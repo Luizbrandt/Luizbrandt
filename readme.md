@@ -86,21 +86,21 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 ## :phone: Wanna chat?
 
 <p align="center">
-	<a href="https://linkedin.com/in/andré-luiz-brandt-engcomp">
-		<img align="left" color="#FFFFFF" alt="Luizbrandt | LinkedIn" width="50px" src="./img/linkedin.svg"/>
-	</a>
+<a href="https://linkedin.com/in/andré-luiz-brandt-engcomp">
+	<img align="left" color="#FFFFFF" alt="Luizbrandt | LinkedIn" width="50px" src="./img/linkedin.svg"/>
+</a>
 
-	<a href="https://api.whatsapp.com/send?phone=+5524981642703">
-		<img align="left" alt="Luizbrandt | Whatsapp" width="50px" src="./img/whatsapp.svg"/>
-	</a>
+<a href="https://api.whatsapp.com/send?phone=+5524981642703">
+	<img align="left" alt="Luizbrandt | Whatsapp" width="50px" src="./img/whatsapp.svg"/>
+</a>
 
-	<a href="https://t.me/brandtluizandre">
-		<img align="left" alt="Luizbrandt | Telegram" width="50px" src="./img/telegram.svg"/>
-	</a>
+<a href="https://t.me/brandtluizandre">
+	<img align="left" alt="Luizbrandt | Telegram" width="50px" src="./img/telegram.svg"/>
+</a>
 
-	<a href="mailto:brandtluizengcomp@gmail.com">
-		<img align="left" alt="Luizbrandt | Gmail" width="50px" src="./img/gmail.svg"/>
-	</a>
+<a href="mailto:brandtluizengcomp@gmail.com">
+	<img align="left" alt="Luizbrandt | Gmail" width="50px" src="./img/gmail.svg"/>
+</a>
 
-	<br/>
+<br/>
 </p>
