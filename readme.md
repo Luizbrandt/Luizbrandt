@@ -86,7 +86,7 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 ## :phone: Wanna chat?
 
 <a href="https://linkedin.com/in/andré-luiz-brandt-engcomp">
-	<img align="left" color="#FFFFFF" alt="Luizbrandt | LinkedIn" width="30px" src="./img/linked.svg"/>
+	<img align="left" color="#FFFFFF" alt="Luizbrandt | LinkedIn" width="30px" src="./img/linkedin.svg"/>
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=+5524981642703">
@@ -102,7 +102,3 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 </a>
 
 <br/>
-
-<p align="center">
-  <><img align="center" alt="Luizbrandt's Github Stats" src=""/><>
-</p>
