@@ -63,6 +63,8 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 </p>
 
 <br/>
+
+#### Used Technologies
 <br/>
 
 ## :gem: Top Langs
