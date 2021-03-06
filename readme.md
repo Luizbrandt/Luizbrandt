@@ -113,3 +113,5 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 
 <br/>
 </p>
+
+<!-- Ideias de projeto: split almoço (coloca o preço, adiciona quem vai dividir, a pessoa ja recebe um pix por email pra pagar quem for o responsável por pagar); almoço ou rango conjunto simulator, pra ver se os convidados têm alergia a alguma comida (cadastra a pessoa, um dos atributos é uma lista de alergias ou intolerância, cria um evento almoço, janta, pique nique etc, coloca os convidados pessoas cadastradas, cadastra uma comida, um prato contendo uma lista de ingrediente, o app faz a verificação se alguém tem alergia a algum dos produtos ingredientes, e dá também sugestões de receitas que as pessoas não tenham alergia ou intolerância) -->
