@@ -52,8 +52,6 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 
 ## :wrench: Projects
 
-<hr></hr>
-
 ### AFEMG Id Generator
 
 <p align="center">
@@ -91,6 +89,8 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 <p align="center">
   <img align="center" alt="Luizbrandt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizbrandt&show_icons=true&theme=midnight-purple&count_private=false&border=false" />
 </p>
+
+### Users CRUD API
 
 <br/>
 
