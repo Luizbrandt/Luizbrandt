@@ -134,7 +134,7 @@ User Interface (UI) built on Vue.js to consume the users crud simple API. The im
 - <a href="https://linkedin.com/in/andré-luiz-brandt-engcomp">LinkedIn</a>.
 - <a href="https://api.whatsapp.com/send?phone=+5524981642703">Whatsapp</a>.
 - <a href="https://t.me/brandtluizandre">Telegram</a>.
-- - <a href="mailto:abrandtfrancsico@gmail.com">Mail me</a>.
+- <a href="mailto:abrandtfrancsico@gmail.com">Mail me</a>.
 
 <!-- <p align="center"><a href="https://linkedin.com/in/andré-luiz-brandt-engcomp"><img align="left" color="#FFFFFF" alt="Luizbrandt | LinkedIn" width="50px" src="./img/linkedin.svg"/></a><a href="https://api.whatsapp.com/send?phone=+5524981642703"><img align="left" alt="Luizbrandt | Whatsapp" width="50px" src="./img/whatsapp.svg"/></a><a href="https://t.me/brandtluizandre"><img align="left" alt="Luizbrandt | Telegram" width="50px" src="./img/telegram.svg"/></a><a href="mailto:brandtluizengcomp@gmail.com"><img align="left" alt="Luizbrandt | Gmail" width="50px" src="./img/gmail.svg"/></a><br/></p>-->
 
