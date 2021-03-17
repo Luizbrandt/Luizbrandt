@@ -84,6 +84,12 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 - <a href="https://github.com/Saviollage">Sávio Lage (Backend)</a>
 <br/>
 
+<hr/>
+
+### Users CRUD Api
+
+Simple API that containt all the CRUD operations for user's entity.
+
 ## :trophy: Github Stats
 
 <p align="center">
