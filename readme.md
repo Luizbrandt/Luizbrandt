@@ -88,7 +88,13 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 
 ### Users CRUD Api
 
-Simple API that containt all the CRUD operations for user's entity.
+Simple API that implements a User's CRUD using Node.Js and MongoDB. Created as a job application challenge - build an Vue.Js web.app that contemplate a User's CRUD (Create, Read, Update and Delete). API URL: https://users-simple-crud.herokuapp.com/. <a href="https://github.com/Luizbrandt/user-crud-simple-api">GitHub Repository</a>.
+
+#### Used Technologies
+- MongoDB/Mongoose
+- Express
+- Node.Js
+- Heroku App
 
 ## :trophy: Github Stats
 
