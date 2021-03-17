@@ -92,6 +92,10 @@ Simple API that implements a User's CRUD using Node.Js and MongoDB. Created as a
 - <a href="https://users-simple-crud.herokuapp.com/">Heroku App</a>.
 - <a href="https://github.com/Luizbrandt/user-crud-simple-api">GitHub Repository</a>.
 
+<p align="center">
+<img src="./img/user-crud-spi/users-api.png" align="center" alt="Users CRUD API" style="marin-left: auto; margin-right: auto;"/>
+</p>
+
 #### Used Technologies
 - MongoDB/Mongoose
 - Express
