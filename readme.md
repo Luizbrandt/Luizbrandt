@@ -52,6 +52,8 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 
 ## :wrench: Projects
 
+<hr></hr>
+
 ### AFEMG Id Generator
 
 <p align="center">
