@@ -108,12 +108,14 @@ Simple API that implements a User's CRUD using Node.Js and MongoDB. Created as a
 
 User Interface (UI) built on Vue.js to consume the users crud simple API. The image below shows the main app's interface.
 
+<strong>Information:</strong>
+- <a href="https://operand-challenge.web.app/">WEB App</a>.
+- <a href="https://github.com/Luizbrandt/vue-users-crud-frontend">GitHub Repository</a>.
+
 <p align="center">
 <img src="./img/user-crud-spi/users-frontend-vue-main.png" align="center" alt="Users CRUD API - Frontend" style="marin-left: auto; margin-right: auto;"/>
 </p>
 
-- <a href="https://operand-challenge.web.app/">WEB App</a>.
-- <a href="https://github.com/Luizbrandt/vue-users-crud-frontend">GitHub Repository</a>.
 
 #### Used Technologies
 - Vue.Js (Vuetify, Router, Axios)
