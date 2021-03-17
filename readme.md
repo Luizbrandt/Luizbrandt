@@ -113,7 +113,7 @@ User Interface (UI) built on Vue.js to consume the users crud simple API. The im
 - <a href="https://github.com/Luizbrandt/vue-users-crud-frontend">GitHub Repository</a>.
 
 <p align="center">
-<img src="./img/user-crud-spi/users-frontend-vue-main.png" align="center" alt="Users CRUD API - Frontend" style="marin-left: auto; margin-right: auto;"/>
+<img src="./img/user-crud-spi/users-frontend-vue-main.png" width="750px" align="center" alt="Users CRUD API - Frontend" style="marin-left: auto; margin-right: auto;"/>
 </p>
 
 
