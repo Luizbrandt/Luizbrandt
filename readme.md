@@ -52,6 +52,23 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 
 ## :wrench: Projects
 
+### Quotes Generator - 'bib' (Latex)
+
+<p align="center">
+  <a href="https://quote-generator-bib.web.app/">
+    <img src="./quote-gen-logo.png" align="center" width="100px" alt="BIB Quote Generator" style="marin-left: auto; margin-right: auto;"/>
+  </a>
+</p>
+
+<div style='text-align: justify;'>Latex quote's generator for '.bib' files and Overleaf projects. The user's inputs turn into a json-like variable that can be placed on a '/bib' file, or donwloaded as a '.bib' file. Click <a href="https://quote-generator-bib.web.app/">here</a> or in the logo above to go to the website. The following image shows the interface layout.
+</div>
+
+<p align="center">
+<img src="./main-menu-article-en.PNG" align="center" width="450px" style="marin-left: auto; margin-right: auto;"/>
+</p>
+
+<hr/>
+
 ### AFEMG Id Generator
 
 <p align="center">
