@@ -56,7 +56,7 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 
 <p align="center">
   <a href="https://quote-generator-bib.web.app/">
-    <img src="./img/quote-gen-logo.png" align="center" width="100px" alt="BIB Quote Generator" style="marin-left: auto; margin-right: auto;"/>
+    <img src="./img/quote-gen-logo.png" align="center" width="400px" alt="BIB Quote Generator" style="marin-left: auto; margin-right: auto;"/>
   </a>
 </p>
 
