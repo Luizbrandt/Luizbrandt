@@ -69,6 +69,10 @@ Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade 
 <img src="./main-menu-article-en.PNG" align="center" width="450px" style="marin-left: auto; margin-right: auto;"/>
 </p>
 
+#### Used Technologies
+- Vue.js (Vuetify)
+- Node.Js (<a href="https://www.npmjs.com/package/file-saver">Node File Saver</a>)
+
 <hr/>
 
 ### AFEMG Id Generator
@@ -154,7 +158,3 @@ User Interface (UI) built on Vue.js to consume the users crud simple API. The im
 - <a href="https://api.whatsapp.com/send?phone=+5524981642703">Whatsapp</a>.
 - <a href="https://t.me/brandtluizandre">Telegram</a>.
 - <a href="mailto:abrandtfrancisco@gmail.com">Mail me</a>.
-
-<!-- <p align="center"><a href="https://linkedin.com/in/andré-luiz-brandt-engcomp"><img align="left" color="#FFFFFF" alt="Luizbrandt | LinkedIn" width="50px" src="./img/linkedin.svg"/></a><a href="https://api.whatsapp.com/send?phone=+5524981642703"><img align="left" alt="Luizbrandt | Whatsapp" width="50px" src="./img/whatsapp.svg"/></a><a href="https://t.me/brandtluizandre"><img align="left" alt="Luizbrandt | Telegram" width="50px" src="./img/telegram.svg"/></a><a href="mailto:brandtluizengcomp@gmail.com"><img align="left" alt="Luizbrandt | Gmail" width="50px" src="./img/gmail.svg"/></a><br/></p>-->
-
-<!-- Ideias de projeto: split almoço (coloca o preço, adiciona quem vai dividir, a pessoa ja recebe um pix por email pra pagar quem for o responsável por pagar); almoço ou rango conjunto simulator, pra ver se os convidados têm alergia a alguma comida (cadastra a pessoa, um dos atributos é uma lista de alergias ou intolerância, cria um evento almoço, janta, pique nique etc, coloca os convidados pessoas cadastradas, cadastra uma comida, um prato contendo uma lista de ingrediente, o app faz a verificação se alguém tem alergia a algum dos produtos ingredientes, e dá também sugestões de receitas que as pessoas não tenham alergia ou intolerância) -->
