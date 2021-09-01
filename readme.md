@@ -2,7 +2,7 @@
 
 ## :mag: Who am I?
 
-Hi! I'm a developer. Graduating on Computer Engineering on UNIFEI (Universidade Federal de Itajubá - Campus Itabira, MG, Brazil) - about to graduate at August 2021. Just a 24 year old guy trying to figure out things, always trying to code every single issue to turn it on solutions. Numbers, coffee, dogs and lines of code are my main passions.
+Hi! I'm a developer. Graduated on Computer Engineering on UNIFEI (Universidade Federal de Itajubá - Campus Itabira, MG, Brazil). Just a 24 year old guy trying to figure out things, always trying to code every single issue to turn it on solutions. Numbers, coffee, dogs and lines of code are my main passions.
 
 <br/>
 
