@@ -7,6 +7,9 @@ Hi! I'm a developer. Graduated on Computer Engineering on UNIFEI (Universidade F
 <br/>
 
 ## :bulb: Fields of Interest
+- REST API Development
+- Integration
+- CRM
 - Software Engineering
 - Frontend Development
 - Machine Learning
