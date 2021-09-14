@@ -17,11 +17,17 @@ Hi! I'm a developer. Graduated on Computer Engineering on UNIFEI (Universidade F
 
 <br/>
 
-## :chart_with_upwards_trend: Goals for 2021
+## :chart_with_upwards_trend: Goals for 2021 (maybe 2022, I'm working a lot 😆 )
 - Become a pro on React and ReactNative
 - Study more about Vue and Vuetify, Docker, Machine Learning and IOT
 - Build fullstack projects using JavaScript (TypeScript + Node.Js), Vue, React and TypeORM
 - Learn how to build Microservices and Serverless applications
+
+## Goals that I achieved, but didn't asked (or hopped for)
+- Realized that life happens, wether you planned or not.
+- Started to work with CRM technologies (and to be honest, I'm loving it).
+- Became a Certified Developer on MuleSoft.
+- Started to work with Salesforce.
 
 <br/>
 
