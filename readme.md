@@ -65,7 +65,7 @@ Hi! I'm a developer. Graduated on Computer Engineering on UNIFEI (Universidade F
 
 <p align="center">
   <a href="https://github.com/Luizbrandt/users-crud-salesforce">
-    <img src="./img/quote-gen-logo.png" align="center" width="500px" style="marin-left: auto; margin-right: auto;"/>
+    <img src="./img/Application-Architecture.png" align="center" width="500px" style="marin-left: auto; margin-right: auto;"/>
   </a>
 </p>
 
