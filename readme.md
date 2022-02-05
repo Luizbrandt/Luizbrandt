@@ -2,7 +2,7 @@
 
 ## :mag: Who am I?
 
-Hi! I'm a developer. Graduated on Computer Engineering on UNIFEI (Universidade Federal de Itajubá - Campus Itabira, MG, Brazil). Just a 24 year old guy trying to figure out things, always trying to code every single issue to turn it on solutions. Numbers, coffee, dogs and lines of code are my main passions.
+Hi! I'm a developer. Graduated on Computer Engineering on UNIFEI (Universidade Federal de Itajubá - Campus Itabira, MG, Brazil). Just a 25 year old guy trying to figure out things, always trying to code every single issue to turn it on solutions. Numbers, coffee, dogs and lines of code are my main passions.
 
 <br/>
 
@@ -20,17 +20,10 @@ Hi! I'm a developer. Graduated on Computer Engineering on UNIFEI (Universidade F
 
 <br/>
 
-## :chart_with_upwards_trend: Goals for 2021 (maybe 2022, I'm working a lot 😆 )
-- Become a pro on React and ReactNative
-- Study more about Vue and Vuetify, Docker, Machine Learning and IOT
-- Build fullstack projects using JavaScript (TypeScript + Node.Js), Vue, React and TypeORM
-- Learn how to build Microservices and Serverless applications
-
-## Goals that I achieved, but didn't asked (or hopped for)
-- Realized that life happens, wether you planned or not.
-- Started to work with CRM technologies (and to be honest, I'm loving it).
-- Became a Certified Developer on MuleSoft.
-- Started to work with Salesforce.
+## :chart_with_upwards_trend: Goals for 2022
+- Build REST APIs for data consumption
+- Get my MCIA Mulesoft certification (Solutions Integration Architect)
+- Get my AWS Solutions Architect certification
 
 <br/>
 
