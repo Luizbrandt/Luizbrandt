@@ -20,7 +20,7 @@ Hi! I'm a developer. Graduated on Computer Engineering on UNIFEI (Universidade F
 
 <br/>
 
-## :chart_with_upwards_trend: Goals for 2022
+## :chart_with_upwards_trend: Goals for 2022 Q2
 - Build REST APIs for data consumption
 - Get my MCIA Mulesoft certification (Solutions Integration Architect)
 - Get my AWS Solutions Architect certification
