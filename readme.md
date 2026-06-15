@@ -1,29 +1,55 @@
-### Hi, I'm André Luiz! :)
+### Hi, I'm André Luiz! 👋
 
-## :mag: Who am I?
+## 🔎 Who am I?
 
-Hi! I'm a developer. Graduated on Computer Engineering on UNIFEI (Universidade Federal de Itajubá - Campus Itabira, MG, Brazil). Just a 25 year old guy trying to figure out things, always trying to code every single issue to turn it on solutions. Numbers, coffee, dogs and lines of code are my main passions.
+I'm a **Senior MuleSoft Developer and Software Engineer** from Brazil, with over five years of experience specializing in enterprise integrations, API development, and Salesforce-driven digital transformation.
 
-<br/>
+I hold a bachelor's degree in **Computer Engineering from UNIFEI — Federal University of Itajubá** and have worked on complex integration projects across industries such as banking, healthcare, automotive finance, data privacy, retail, and oil and gas.
 
-## :bulb: Fields of Interest
-- REST API Development
-- Integration
-- CRM
-- Software Engineering
-- Frontend Development
-- Machine Learning
-- IOT
-- Data Science
-- DevOps
-- Servless and Microservices architechture
+My experience includes designing, developing, testing, deploying, monitoring, and supporting scalable integration solutions using **MuleSoft Anypoint Platform**, API-led connectivity, REST and SOAP APIs, DataWeave, RAML, MUnit, Salesforce, and cloud-based development practices.
+
+I also have experience leading development teams, supporting production environments, defining integration strategies, reviewing technical solutions, troubleshooting critical incidents, implementing CI/CD pipelines, and collaborating with international teams in fully English-speaking environments.
 
 <br/>
 
-## :chart_with_upwards_trend: Goals for 2022 Q2
-- Build REST APIs for data consumption
-- Get my MCIA Mulesoft certification (Solutions Integration Architect)
-- Get my AWS Solutions Architect certification
+## 💡 Areas of Expertise and Interest
+
+* MuleSoft and Enterprise Integration
+* API Design and Development
+* API-led Connectivity
+* Integration Architecture
+* REST and SOAP APIs
+* DataWeave and RAML
+* Salesforce Integrations
+* Asynchronous and Event-driven Integrations
+* Cloud and Hybrid Integration Solutions
+* API Security and Governance
+* CI/CD and DevOps Practices
+* Automated Testing with MUnit
+* Monitoring, Observability, and Production Support
+* Microservices and Distributed Systems
+* Technical Leadership and Solution Design
+
+<br/>
+
+## 🛠️ Main Technologies
+
+* **Integration:** MuleSoft, Anypoint Platform, CloudHub, API Manager, Anypoint MQ
+* **API Development:** REST, SOAP, RAML, API-led Connectivity
+* **Salesforce:** Sales Cloud, Service Cloud, Apex, LWC, Data Cloud, Agentforce
+* **Languages:** DataWeave, Java, JavaScript, TypeScript, Node.js
+* **Testing:** MUnit, Jest, integration and regression testing
+* **DevOps:** GitHub Actions, Jenkins, Bamboo, Git, Docker, Kubernetes
+* **Monitoring:** Anypoint Monitoring, Datadog, Grafana
+* **Databases:** PostgreSQL, MySQL, MongoDB
+* **Collaboration:** Jira, Confluence, ServiceNow
+
+<br/>
+
+## 🎯 Professional Focus
+
+My goal is to build secure, resilient, maintainable, and scalable integration solutions that connect systems, simplify business processes, and reliably support critical enterprise operations.
+
 
 <br/>
 
