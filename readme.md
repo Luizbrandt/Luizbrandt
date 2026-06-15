@@ -40,7 +40,7 @@ I also have experience leading development teams, supporting production environm
 * **Languages:** DataWeave, Java, JavaScript, TypeScript, Node.js
 * **Testing:** MUnit, Jest, integration and regression testing
 * **DevOps:** GitHub Actions, Jenkins, Bamboo, Git, Docker, Kubernetes
-* **Monitoring:** Anypoint Monitoring, Datadog, Grafana
+* **Monitoring:** Anypoint Monitoring, Datadog, BetterStack
 * **Databases:** PostgreSQL, MySQL, MongoDB
 * **Collaboration:** Jira, Confluence, ServiceNow
 
